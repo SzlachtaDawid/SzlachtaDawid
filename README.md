@@ -2,7 +2,7 @@
 ![programing](https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif)
 
 
-## I am the man who want working in IT!!
+## I am the man who want start working in IT!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
