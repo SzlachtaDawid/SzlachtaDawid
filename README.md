@@ -1,5 +1,5 @@
 ### 👋👋👋 Hi there, I'm Dawid Szlachta 👋👋👋 
-![programing](https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif)
+![programing](https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif)
 
 
 ## I am the man who want start working in IT!!
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Find work 🤣
-- ⚡ Fun fact: I love to play computer games 
+- ⚡ I love to play computer games 
 #<br />
 ![game](https://media.giphy.com/media/xavRMW8oIjxWkRX2lC/giphy-downsized.gif)
 
