@@ -2,11 +2,10 @@
 ![programing](https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif)
 
 
-## I am the man who want start working in IT!!
+## I am the man working in IT!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Find work 🤣
 - ⚡ I love to play computer games 
 #<br />
 ![game](https://media.giphy.com/media/xavRMW8oIjxWkRX2lC/giphy-downsized.gif)
