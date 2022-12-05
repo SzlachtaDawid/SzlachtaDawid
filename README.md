@@ -4,7 +4,7 @@
 
 ## I am the man working in IT!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ I love to play computer games 
 #<br />
