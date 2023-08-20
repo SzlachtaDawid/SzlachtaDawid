@@ -2,12 +2,13 @@
 ![programing](https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif)
 
 
-## I am the man working in IT!!
+## What am I doing ? 
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently developed in React.js
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ I love to play computer games 
-#<br />
+- ⚡ I love to play computer games
+##
+###
 ![game](https://media.giphy.com/media/xavRMW8oIjxWkRX2lC/giphy-downsized.gif)
 
 
