@@ -15,8 +15,10 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
+<br />
+
+##
 
 ### Languages and Tools:
 
