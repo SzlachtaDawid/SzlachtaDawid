@@ -12,7 +12,7 @@
 
 ## 👋 About me
 
-I'm a frontend developer from Kraków. For almost 4 years I've been building the ticket shop and back-office of **[Droplabs](https://droplabs.pl)**, an online ticketing platform used by **500+ tourist attractions** in Poland. I care about interfaces that work for everyone, design systems that keep a product consistent, and tooling that makes the whole team faster.
+I'm a frontend developer from Kraków. For almost 4 years I've been building the ticket shop and back-office of **[Droplabs](https://droplabs.pl)**, an online ticketing platform used by **500+ tourist attractions** in Poland. I care about interfaces that work for everyone, design systems that keep a product consistent, and fast, well-tested code.
 
 ```ts
 const dawid = {
@@ -20,7 +20,7 @@ const dawid = {
   location: "Kraków, Poland 🇵🇱",
   experience: "5+ years (React & TypeScript since 2023, ex-team lead of 10 devs)",
   focus: ["accessibility (WCAG 2.2 AA)", "design systems", "web performance"],
-  aiWorkflow: ["Claude Code skills, hooks & subagents", "spec-driven development", "parallel agents with Cezar"],
+  aiWorkflow: ["Claude Code", "spec-driven development", "human review on every change", "parallel agents with Cezar"],
   learning: ["10xDevs 5.0", "AI Tech Leaders"],
   offline: ["🏍️ motorcycles", "⛰️ mountains", "🏋️ gym"],
 } as const;
@@ -29,7 +29,7 @@ const dawid = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
-  <img alt="Terminal: whoami prints Dawid Szlachta, Frontend Developer at Droplabs, Kraków. Focus: accessible UIs (WCAG 2.2 AA), a design system synced between Figma and Storybook, about 25 Claude Code skills, hooks and subagents. Side projects: motoszpej.pl, cs2-open-qualifiers." src="./assets/terminal-light.svg" width="100%">
+  <img alt="Terminal: whoami prints Dawid Szlachta, Frontend Developer at Droplabs, Kraków. Focus: accessible UIs (WCAG 2.2 AA), a design system synced between Figma and Storybook, web performance work (code-splitting, bundle analysis, moving from Webpack to Vite). Side projects: motoszpej.pl, cs2-open-qualifiers." src="./assets/terminal-light.svg" width="100%">
 </picture>
 
 ## 🧰 Tech stack
