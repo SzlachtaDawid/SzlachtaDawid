@@ -80,7 +80,6 @@ const dawid = {
 
 - **Spec first, code second.** Agents get a written spec and small, well-defined tasks.
 - **A human reviews every change.** AI speeds me up; it doesn't merge for me.
-- **Tooling for the whole team.** I built ~25 Claude Code skills, hooks and subagents: design system guards, WCAG checks, code review and debugging helpers.
 - **Parallel when it pays off.** I run several agents at once with [Cezar](https://github.com/open-mercato/cezar), each in its own git worktree.
 
 > [!NOTE]
