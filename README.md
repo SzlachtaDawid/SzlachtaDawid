@@ -37,14 +37,14 @@ const dawid = {
 **Every day**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,materialui,tailwind,sass,html,css&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Credux%2Cmaterialui%2Ctailwind%2Csass%2Chtml%2Ccss&theme=dark">
   <img alt="TypeScript, JavaScript, React, Next.js, Redux, Material UI, Tailwind CSS, Sass, HTML, CSS" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,materialui,tailwind,sass,html,css&theme=light">
 </picture>
 
 **Testing and tooling**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=jest,vitest,webpack,vite,git,githubactions,docker,figma&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=jest%2Cvitest%2Cwebpack%2Cvite%2Cgit%2Cgithubactions%2Cdocker%2Cfigma&theme=dark">
   <img alt="Jest, Vitest, Webpack, Vite, Git, GitHub Actions, Docker, Figma" src="https://skillicons.dev/icons?i=jest,vitest,webpack,vite,git,githubactions,docker,figma&theme=light">
 </picture>
 
@@ -53,7 +53,7 @@ const dawid = {
 **Side projects**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=astro,nodejs,nestjs,postgres,prisma,supabase,workers,vercel,threejs&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=astro%2Cnodejs%2Cnestjs%2Cpostgres%2Cprisma%2Csupabase%2Cworkers%2Cvercel%2Cthreejs&theme=dark">
   <img alt="Astro, Node.js, NestJS, PostgreSQL, Prisma, Supabase, Cloudflare Workers, Vercel, Three.js" src="https://skillicons.dev/icons?i=astro,nodejs,nestjs,postgres,prisma,supabase,workers,vercel,threejs&theme=light">
 </picture>
 
