@@ -1,52 +1,95 @@
-### 👋👋👋 Hi there, I'm Dawid Szlachta 👋👋👋 
-![programing](https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Dawid Szlachta. Frontend Developer: React and TypeScript, accessibility, design systems and AI-assisted engineering." src="./assets/header-light.svg" width="100%">
+</picture>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/dawid-szlachta-a137b81b2/"><img alt="LinkedIn: Dawid Szlachta" src="https://img.shields.io/badge/LinkedIn-Dawid%20Szlachta-0A66C2?style=for-the-badge"></a>
+  <a href="https://motoszpej.pl"><img alt="Side project: motoszpej.pl" src="https://img.shields.io/badge/Side%20project-motoszpej.pl-F97316?style=for-the-badge"></a>
+  <img alt="Based in Kraków, Poland" src="https://img.shields.io/badge/Based%20in-Krak%C3%B3w%2C%20PL-1F5FAE?style=for-the-badge">
+</p>
 
-## What am I doing ? 
+## 👋 About me
 
-- 🌱 I’m currently developed in React.js
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ I love to play computer games
-##
-###
-![game](https://media.giphy.com/media/xavRMW8oIjxWkRX2lC/giphy-downsized.gif)
+I'm a frontend developer from Kraków. For almost 4 years I've been building the ticket shop and back-office of **[Droplabs](https://droplabs.pl)**, an online ticketing platform used by **500+ tourist attractions** in Poland. I care about interfaces that work for everyone, design systems that keep a product consistent, and tooling that makes the whole team faster.
 
+```ts
+const dawid = {
+  role: "Frontend Developer @ Droplabs",
+  location: "Kraków, Poland 🇵🇱",
+  experience: "5+ years (React & TypeScript since 2023, ex-team lead of 10 devs)",
+  focus: ["accessibility (WCAG 2.2 AA)", "design systems", "web performance"],
+  aiWorkflow: ["Claude Code skills, hooks & subagents", "spec-driven development", "parallel agents with Cezar"],
+  learning: ["10xDevs 5.0", "AI Tech Leaders"],
+  offline: ["🏍️ motorcycles", "⛰️ mountains", "🏋️ gym"],
+} as const;
+```
 
-### Connect with me:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
+  <img alt="Terminal: whoami prints Dawid Szlachta, Frontend Developer at Droplabs, Kraków. Focus: accessible UIs (WCAG 2.2 AA), a design system synced between Figma and Storybook, about 25 Claude Code skills, hooks and subagents. Side projects: motoszpej.pl, cs2-open-qualifiers." src="./assets/terminal-light.svg" width="100%">
+</picture>
 
-[<img align="left" alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-<br />
+## 🧰 Tech stack
 
-##
+**Every day**
 
-### Languages and Tools:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,materialui,tailwind,sass,html,css&theme=dark">
+  <img alt="TypeScript, JavaScript, React, Next.js, Redux, Material UI, Tailwind CSS, Sass, HTML, CSS" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,materialui,tailwind,sass,html,css&theme=light">
+</picture>
 
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+**Testing and tooling**
 
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=jest,vitest,webpack,vite,git,githubactions,docker,figma&theme=dark">
+  <img alt="Jest, Vitest, Webpack, Vite, Git, GitHub Actions, Docker, Figma" src="https://skillicons.dev/icons?i=jest,vitest,webpack,vite,git,githubactions,docker,figma&theme=light">
+</picture>
 
+<img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"> <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square"> <img alt="React Testing Library" src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=flat-square"> <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square"> <img alt="WCAG 2.2 AA" src="https://img.shields.io/badge/WCAG-2.2%20AA-005A9C?style=flat-square"> <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white">
 
+**Side projects**
 
-[linkedin]: https://www.linkedin.com/in/dawid-szlachta-a137b81b2/
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=astro,nodejs,nestjs,postgres,prisma,supabase,workers,vercel,threejs&theme=dark">
+  <img alt="Astro, Node.js, NestJS, PostgreSQL, Prisma, Supabase, Cloudflare Workers, Vercel, Three.js" src="https://skillicons.dev/icons?i=astro,nodejs,nestjs,postgres,prisma,supabase,workers,vercel,threejs&theme=light">
+</picture>
 
+## 🚀 Featured projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏍️ MotoSzpej</h3>
+      <p>Marketplace for handmade and modified motorcycle parts, matched to bike make, model and year. Every listing is moderated by hand.</p>
+      <p><sub><b>Astro SSR · React · Supabase (RLS) · Cloudflare Workers</b></sub></p>
+      <p><a href="https://motoszpej.pl">🔗 motoszpej.pl</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 CS2 Open Qualifiers</h3>
+      <p>Scroll-driven 3D landing page for a Counter-Strike 2 tournament: one WebGL canvas, animation clips scrubbed by scroll.</p>
+      <p><sub><b>Next.js 16 · React Three Fiber · GSAP ScrollTrigger · Tailwind</b></sub></p>
+      <p><a href="https://github.com/SzlachtaDawid/CS2-open-qualifiers">💻 Code</a></p>
+    </td>
+  </tr>
+</table>
 
+## 🤖 How I work with AI
 
+- **Spec first, code second.** Agents get a written spec and small, well-defined tasks.
+- **A human reviews every change.** AI speeds me up; it doesn't merge for me.
+- **Tooling for the whole team.** I built ~25 Claude Code skills, hooks and subagents: design system guards, WCAG checks, code review and debugging helpers.
+- **Parallel when it pays off.** I run several agents at once with [Cezar](https://github.com/open-mercato/cezar), each in its own git worktree.
 
+> [!NOTE]
+> This README tries to practise what it preaches: every image has alt text, and the animations stop when your system asks for reduced motion.
 
-<!---
-SzlachtaDawid/SzlachtaDawid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+  <img alt="" src="./assets/footer-light.svg" width="100%">
+</picture>
+
+<p align="center"><sub>Thanks for stopping by! Let's connect on <a href="https://www.linkedin.com/in/dawid-szlachta-a137b81b2/">LinkedIn</a>.</sub></p>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" role="img" aria-label="Decorative wave">
+  <style>
+    .w1 { animation: slide 14s linear infinite; }
+    .w2 { animation: slide 22s linear infinite reverse; }
+    @keyframes slide { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+    @media (prefers-reduced-motion: reduce) { .w1, .w2 { animation: none; } }
+  </style>
+  <defs>
+    <linearGradient id="wg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f5fae"/><stop offset="1" stop-color="#8250df"/>
+    </linearGradient>
+  </defs>
+  <path class="w2" d="M0 46 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 q75.0 -14 150.0 0 t150.0 0 V90 H0 Z" fill="url(#wg)" fill-opacity="0.25"/>
+  <path class="w1" d="M0 58 q75.0 -18 150.0 0 t150.0 0 q75.0 -18 150.0 0 t150.0 0 q75.0 -18 150.0 0 t150.0 0 q75.0 -18 150.0 0 t150.0 0 q75.0 -18 150.0 0 t150.0 0 q75.0 -18 150.0 0 t150.0 0 V90 H0 Z" fill="url(#wg)" fill-opacity="0.55"/>
+</svg>

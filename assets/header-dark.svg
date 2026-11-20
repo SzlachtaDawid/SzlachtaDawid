@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title">
+  <title id="title">Dawid Szlachta. Frontend Developer: React and TypeScript, accessibility, design systems, AI-assisted engineering.</title>
+  <style>
+    .b1 { animation: d1 18s ease-in-out infinite alternate; }
+    .b2 { animation: d2 23s ease-in-out infinite alternate; }
+    .b3 { animation: d3 27s ease-in-out infinite alternate; }
+    @keyframes d1 { to { transform: translate(140px, 60px); } }
+    @keyframes d2 { to { transform: translate(-160px, -50px); } }
+    @keyframes d3 { to { transform: translate(90px, -70px); } }
+    .tk { animation: float 5s ease-in-out infinite alternate; }
+    @keyframes float { from { transform: translateY(-6px); } to { transform: translateY(8px); } }
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .fade { animation: fade .9s ease-out both; }
+    @keyframes fade { from { opacity: 0; transform: translateY(10px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .b1, .b2, .b3, .tk, .fade { animation: none; }
+      .ph:not(.ph0), .caret-g { display: none; }
+      .ph0 .tx { clip-path: none; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111a2e"/>
+    </linearGradient>
+    <radialGradient id="g1"><stop offset="0" stop-color="#1f6feb"/><stop offset="1" stop-color="#1f6feb" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2"><stop offset="0" stop-color="#8957e5"/><stop offset="1" stop-color="#8957e5" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g3"><stop offset="0" stop-color="#2ea8a0"/><stop offset="1" stop-color="#2ea8a0" stop-opacity="0"/></radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#9ecbff"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.3" fill="#ffffff" fill-opacity="0.7000000000000001"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="340" rx="22"/></clipPath>
+    <clipPath id="type0"><rect x="82" y="210" height="39.2" width="0">
+      <animate attributeName="width" dur="18s" repeatCount="indefinite" keyTimes="0;0.08;0.16;0.19;1" values="0;306.4;306.4;0;0"/>
+    </rect></clipPath>
+    <clipPath id="type1"><rect x="82" y="210" height="39.2" width="0">
+      <animate attributeName="width" dur="18s" repeatCount="indefinite" keyTimes="0;0.2;0.28;0.36;0.39;1" values="0;0;306.4;306.4;0;0"/>
+    </rect></clipPath>
+    <clipPath id="type2"><rect x="82" y="210" height="39.2" width="0">
+      <animate attributeName="width" dur="18s" repeatCount="indefinite" keyTimes="0;0.4;0.48;0.56;0.59;1" values="0;0;457.6;457.6;0;0"/>
+    </rect></clipPath>
+    <clipPath id="type3"><rect x="82" y="210" height="39.2" width="0">
+      <animate attributeName="width" dur="18s" repeatCount="indefinite" keyTimes="0;0.6;0.68;0.76;0.79;1" values="0;0;239.2;239.2;0;0"/>
+    </rect></clipPath>
+    <clipPath id="type4"><rect x="82" y="210" height="39.2" width="0">
+      <animate attributeName="width" dur="18s" repeatCount="indefinite" keyTimes="0;0.8;0.88;0.96;0.99;1" values="0;0;390.4;390.4;0;0"/>
+    </rect></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <g opacity="0.45">
+      <circle class="b1" cx="230" cy="60" r="260" fill="url(#g1)"/>
+      <circle class="b2" cx="1030" cy="300" r="300" fill="url(#g2)"/>
+      <circle class="b3" cx="720" cy="-20" r="220" fill="url(#g3)"/>
+    </g>
+    <rect width="1200" height="340" fill="url(#dots)" opacity="0.1"/>
+    <text class="tk" style="animation-delay:-0s" x="905" y="95" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#79c0ff" fill-opacity="0.28">&lt;/&gt;</text>
+    <text class="tk" style="animation-delay:-1.2s" x="1085" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#79c0ff" fill-opacity="0.28">{ }</text>
+    <text class="tk" style="animation-delay:-2.1s" x="975" y="215" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#79c0ff" fill-opacity="0.28">=&gt;</text>
+    <text class="tk" style="animation-delay:-0.6s" x="845" y="300" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#79c0ff" fill-opacity="0.28">aria-live="polite"</text>
+    <text class="tk" style="animation-delay:-1.7s" x="1030" y="262" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#79c0ff" fill-opacity="0.28">&lt;Button /&gt;</text>
+    <text class="tk" style="animation-delay:-2.6s" x="1090" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#79c0ff" fill-opacity="0.28">tsc ✓</text>
+    <g class="fade">
+      <text x="84" y="98" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#8b949e">hello, world! I'm</text>
+      <text x="80" y="176" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="74" font-weight="800" letter-spacing="-1.5" fill="url(#name)">Dawid Szlachta</text>
+    </g>
+    
+    <g class="ph ph0">
+      <text class="tx" x="84" y="238" clip-path="url(#type0)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="28" fill="#79c0ff">Frontend Developer</text>
+      <g class="caret-g" opacity="1">
+        <animate attributeName="opacity" dur="18s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2" values="1;0"/>
+        <rect class="caret" x="86" y="214.2" width="3" height="29.4" rx="1.5" fill="#79c0ff">
+          <animate attributeName="x" dur="18s" repeatCount="indefinite" keyTimes="0;0.08;0.16;0.19;1" values="84;390.4;390.4;84;84"/>
+        </rect>
+      </g>
+    </g>
+    <g class="ph ph1">
+      <text class="tx" x="84" y="238" clip-path="url(#type1)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="28" fill="#79c0ff">React &amp; TypeScript</text>
+      <g class="caret-g" opacity="0">
+        <animate attributeName="opacity" dur="18s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2;0.4" values="0;1;0"/>
+        <rect class="caret" x="86" y="214.2" width="3" height="29.4" rx="1.5" fill="#79c0ff">
+          <animate attributeName="x" dur="18s" repeatCount="indefinite" keyTimes="0;0.2;0.28;0.36;0.39;1" values="84;84;390.4;390.4;84;84"/>
+        </rect>
+      </g>
+    </g>
+    <g class="ph ph2">
+      <text class="tx" x="84" y="238" clip-path="url(#type2)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="28" fill="#79c0ff">Accessibility · WCAG 2.2 AA</text>
+      <g class="caret-g" opacity="0">
+        <animate attributeName="opacity" dur="18s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4;0.6" values="0;1;0"/>
+        <rect class="caret" x="86" y="214.2" width="3" height="29.4" rx="1.5" fill="#79c0ff">
+          <animate attributeName="x" dur="18s" repeatCount="indefinite" keyTimes="0;0.4;0.48;0.56;0.59;1" values="84;84;541.6;541.6;84;84"/>
+        </rect>
+      </g>
+    </g>
+    <g class="ph ph3">
+      <text class="tx" x="84" y="238" clip-path="url(#type3)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="28" fill="#79c0ff">Design systems</text>
+      <g class="caret-g" opacity="0">
+        <animate attributeName="opacity" dur="18s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6;0.8" values="0;1;0"/>
+        <rect class="caret" x="86" y="214.2" width="3" height="29.4" rx="1.5" fill="#79c0ff">
+          <animate attributeName="x" dur="18s" repeatCount="indefinite" keyTimes="0;0.6;0.68;0.76;0.79;1" values="84;84;323.2;323.2;84;84"/>
+        </rect>
+      </g>
+    </g>
+    <g class="ph ph4">
+      <text class="tx" x="84" y="238" clip-path="url(#type4)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="28" fill="#79c0ff">AI-assisted engineering</text>
+      <g class="caret-g" opacity="0">
+        <animate attributeName="opacity" dur="18s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.8" values="0;1"/>
+        <rect class="caret" x="86" y="214.2" width="3" height="29.4" rx="1.5" fill="#79c0ff">
+          <animate attributeName="x" dur="18s" repeatCount="indefinite" keyTimes="0;0.8;0.88;0.96;0.99;1" values="84;84;474.4;474.4;84;84"/>
+        </rect>
+      </g>
+    </g>
+    <g><rect x="84" y="272" width="118" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#30363d"/><text x="143" y="293" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#c9d1d9">Kraków, PL</text></g>
+    <g><rect x="214" y="272" width="199" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#30363d"/><text x="313.5" y="293" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#c9d1d9">Frontend @ Droplabs</text></g>
+    <g><rect x="425" y="272" width="181" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#30363d"/><text x="515.5" y="293" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#c9d1d9">5+ yrs experience</text></g>
+    <g><rect x="618" y="272" width="127" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#30363d"/><text x="681.5" y="293" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#c9d1d9">WCAG 2.2 AA</text></g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="22" fill="none" stroke="#30363d"/>
+</svg>
