@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dawid-szlachta-a137b81b2/"><img alt="LinkedIn: Dawid Szlachta" src="https://img.shields.io/badge/LinkedIn-Dawid%20Szlachta-0A66C2?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/dawid-szlachta/"><img alt="LinkedIn: Dawid Szlachta" src="https://img.shields.io/badge/LinkedIn-Dawid%20Szlachta-0A66C2?style=for-the-badge"></a>
   <a href="https://motoszpej.pl"><img alt="Side project: motoszpej.pl" src="https://img.shields.io/badge/Side%20project-motoszpej.pl-F97316?style=for-the-badge"></a>
   <img alt="Based in Kraków, Poland" src="https://img.shields.io/badge/Based%20in-Krak%C3%B3w%2C%20PL-1F5FAE?style=for-the-badge">
 </p>
@@ -91,4 +91,4 @@ const dawid = {
   <img alt="" src="./assets/footer-light.svg" width="100%">
 </picture>
 
-<p align="center"><sub>Thanks for stopping by! Let's connect on <a href="https://www.linkedin.com/in/dawid-szlachta-a137b81b2/">LinkedIn</a>.</sub></p>
+<p align="center"><sub>Thanks for stopping by! Let's connect on <a href="https://www.linkedin.com/in/dawid-szlachta/">LinkedIn</a>.</sub></p>
